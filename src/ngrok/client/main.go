@@ -2,7 +2,7 @@ package client
 
 import (
 	"fmt"
-	"github.com/inconshreveable/mousetrap"
+	"github.com/kumarsiva07/mousetrap"
 	"math/rand"
 	"ngrok/log"
 	"ngrok/util"
